@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.Form1.resources
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.Inicio.resources
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\Administrator\Desktop\Jogo-Da-Forca-CSharp-master\JogoDaForca\obj\Debug\JogoDaForca.pdb
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.Form1.resources
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.Inicio.resources
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\Administrator\Desktop\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.pdb
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\bin\Debug\JogoDaForca.exe
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.csprojAssemblyReference.cache
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.Form1.resources
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.Inicio.resources
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.Properties.Resources.resources
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.csproj.GenerateResource.cache
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.exe
+E:\2DS\DS\3 bim\jogo da forca\JogoDaForca\obj\Debug\JogoDaForca.pdb
